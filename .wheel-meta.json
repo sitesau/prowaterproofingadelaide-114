@@ -1,0 +1,22 @@
+{
+  "wheel_id": 917,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-114",
+  "project": "waterproofing-adelaide-budget-tips-b24708952f55b8b3290563e49aa9",
+  "parent_t1_ref": "prowaterproofingadelaide-156",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing adelaide budget tips",
+  "intended_url": "http://waterproofing-adelaide-budget-tips-b24708952f55b8b3290563e49aa9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8f123c6eaa08f6b6",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/waterproofing-adelaide-local-options-compared-2904e2b25c8c03cbd/",
+      "anchor": "this waterproofing adelaide local options compared resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
